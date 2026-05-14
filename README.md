@@ -1,2 +1,11 @@
-# python-auto-scripts
-Python自动化脚本合集，包含自动打字、点击等工具
+# Python 自动化脚本合集
+
+这是我的第一个 GitHub 项目，用来练习 Python 自动化开发，包含一些实用小工具。
+
+## 包含脚本
+- 自动打字脚本：可自定义重复次数的文本输入工具
+- 其他脚本持续更新中...
+
+## 使用方法
+1.  安装依赖：`pip install pyautogui`
+2.  运行脚本：`python 脚本名.py`
